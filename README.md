@@ -1,2 +1,2 @@
-# ineuron_assginments
-It includes class assignments, dashboard assignments
+# iNeuron Assignments
+It includes Class assignments, Dashboard assignments
